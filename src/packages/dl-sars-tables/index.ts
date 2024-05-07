@@ -40,10 +40,8 @@ if (doc === null) {
 
 const table = doc.querySelector(".ms-rteTable-default");
 
-
 // table.
 
 // const table: string[][] = stringsFromTable(table);
-
 
 // console.log(p?.innerHTML);
